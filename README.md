@@ -35,19 +35,19 @@ Certificaciones oficiales en sostenibilidad (en esta fase).
 
 4. Roles y Responsabilidades
 
-Alumno 1 – Coordinador de Comunidad
+luis angel 1 – Coordinador de Comunidad
 
 Organizar la comunicación interna.
 
 Supervisar la producción de contenido.
 
-Alumno 2 – Redactor y Curador de Contenido
+alain  – Redactor y Curador de Contenido
 
 Elaborar artículos y guías prácticas.
 
 Seleccionar recursos externos relevantes.
 
-Alumno 3 – Diseñador Multimedia
+marlen 3 – Diseñador Multimedia
 
 Crear material gráfico y edición de podcasts/videos.
 
