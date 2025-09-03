@@ -1,67 +1,70 @@
 # Proyecto-Stellar-Insignias-MAL
 
-“Comunidad Stellar: Aprendizaje y Gamificación con Insignias”
+Acta de Constitución del Proyecto
+1. Título del Proyecto
+
+GreenTech Hub: Comunidad Digital de Innovación Sostenible
 
 2. Objetivos del Proyecto
 
-Crear una comunidad activa de aprendizaje sobre Stellar.
+Crear una plataforma en línea para difundir iniciativas sostenibles.
 
-Ofrecer recursos en formato tutoriales, artículos y videos.
+Desarrollar artículos, podcasts y videos educativos sobre tecnología verde.
 
-Implementar un sistema de insignias para motivar la participación.
+Implementar un sistema de insignias para motivar la participación y el voluntariado ambiental.
 
 3. Alcance
 
-✅ Lo que se hará:
+✅ Incluido en el proyecto:
 
-Generación de contenido educativo (tutoriales, artículos, videos).
+Publicación de artículos semanales sobre energías renovables y reciclaje.
 
-Diseño y definición del sistema de insignias digitales.
+Creación de podcasts mensuales con expertos invitados.
 
-Implementación de tablero Kanban para la organización del equipo.
+Diseño de insignias digitales temáticas (Ej. “Eco-Innovador”, “Embajador Verde”).
 
-Difusión en redes sociales y plataformas de colaboración.
+Construcción de un repositorio de proyectos colaborativos.
 
-❌ Lo que queda fuera del alcance:
+❌ Excluido del proyecto:
 
-Desarrollo de software propio o aplicaciones móviles.
+Desarrollo de aplicaciones móviles.
 
-Monetización inmediata del proyecto.
+Eventos presenciales a gran escala.
 
-Traducciones a otros idiomas (en esta fase inicial).
+Certificaciones oficiales en sostenibilidad (en esta fase).
 
 4. Roles y Responsabilidades
 
-Alain leonel – Coordinador del Proyecto:
+Alumno 1 – Coordinador de Comunidad
 
-Supervisar el cumplimiento de hitos.
+Organizar la comunicación interna.
 
-Coordinar reuniones y comunicación interna.
+Supervisar la producción de contenido.
 
-Marlene Maricela – Diseñador de Contenido:
+Alumno 2 – Redactor y Curador de Contenido
 
-Crear tutoriales y artículos.
+Elaborar artículos y guías prácticas.
 
-Participar en la definición del sistema de insignias.
+Seleccionar recursos externos relevantes.
 
-Luis angel– Diseñador Gráfico y Multimedia:
+Alumno 3 – Diseñador Multimedia
 
-Diseñar insignias y material visual.
+Crear material gráfico y edición de podcasts/videos.
 
-Apoyar en la edición de videos.
+Diseñar insignias digitales de la comunidad.
 
 5. Hitos Principales y Plazos
 
-Semana 1: Lluvia de ideas y redacción del Acta de Constitución.
+Semana 1: Lluvia de ideas y definición del Acta de Constitución.
 
-Semana 2: Creación de primeros borradores de artículos/tutoriales.
+Semana 2: Publicación del primer artículo sobre reciclaje electrónico.
 
-Semana 3: Diseño inicial de insignias y validación en el equipo.
+Semana 3: Grabación y edición del primer podcast con invitado.
 
-Semana 4: Publicación del primer contenido en la comunidad.
+Semana 4: Lanzamiento del sistema de insignias inicial.
 
 6. Recursos y Supuestos
 
-Herramientas necesarias: Trello (Kanban), Google Docs, Canva, OBS Studio.
+Herramientas necesarias: Trello, Notion, Canva, Audacity, OBS Studio.
 
-Factores externos: Disponibilidad de tiempo de cada integrante, acceso a internet estable.
+Supuestos: Compromiso de los integrantes, acceso estable a internet y disponibilidad de al menos 3 horas semanales por alumno.
