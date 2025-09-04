@@ -1,4 +1,4 @@
-# Proyecto-Stellar-Insignias-MAL
+# Proyecto-Stellar-MAL
 
 Acta de Constitución del Proyecto
 1. Título del Proyecto
