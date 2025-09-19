@@ -8,36 +8,29 @@ El propósito es analizar críticamente la calidad del software y la documentaci
 
 ## 2. Selección y Exploración del Proyecto
 
-### 2.1 Selección del Proyecto
+**Selección del Proyecto:**  
 Se eligió el proyecto **Stellar MicroLoans dApp**, disponible en GitHub, debido a su actividad reciente, la disponibilidad de documentación y su relevancia como caso de estudio en la red Stellar.
 
-### 2.2 Exploración del Repositorio
-Durante la revisión del repositorio, se identificaron los siguientes elementos:
-- **Pruebas Unitarias:** El proyecto incluye pruebas automatizadas para smart contracts y componentes de la interfaz.
-- **Documentación:** README completo, con guía de instalación y uso básico; se observan comentarios en el código, pero se recomienda ampliar la sección de contribución.
-- **Historial de Issues:** Los errores reportados se han resuelto con un tiempo promedio de 3 días, demostrando un equipo activo y comprometido.
+**Exploración del Repositorio:**  
+- **Pruebas Unitarias:** Incluye pruebas automatizadas para smart contracts y componentes de la interfaz.  
+- **Documentación:** README completo, guía de instalación y uso básico; se recomienda ampliar la sección de contribución.  
+- **Historial de Issues:** Los errores reportados se han resuelto en promedio en 3 días, demostrando un equipo activo y comprometido.
 
 ---
 
 ## 3. Aplicación de Métricas de Calidad
 
-**Cobertura de Pruebas**
-- Resultado: 75% del código cubierto
-- Análisis: La cobertura es aceptable, pero se recomienda ampliar pruebas en módulos de transacciones complejas. Riesgo de errores en futuras actualizaciones si no se mejora.
-
-**Calidad de la Documentación**
-- Resultado: Claridad media, guía básica disponible
-- Análisis: La documentación es suficiente para empezar a usar la dApp, pero carece de secciones detalladas para nuevos desarrolladores. Podría dificultar la incorporación de contribuyentes.
-
-**Tasa de Errores Resueltos**
-- Resultado: 95% de bugs resueltos en promedio de 3 días
-- Análisis: Indica un equipo comprometido con la estabilidad. Se recomienda mantener seguimiento y priorización de bugs críticos.
+| Métrica | Resultado | Análisis Crítico |
+|---------|-----------|----------------|
+| Cobertura de Pruebas | 75% del código cubierto | Cobertura aceptable, pero se recomienda ampliar pruebas en módulos críticos de transacciones. Riesgo de errores en futuras actualizaciones. |
+| Calidad de la Documentación | Claridad media, guía básica disponible | Documentación suficiente para uso inicial, pero faltan detalles para nuevos desarrolladores y contribuyentes. |
+| Tasa de Errores Resueltos | 95% de bugs resueltos en promedio de 3 días | Indica un equipo comprometido con la estabilidad. Mantener seguimiento y priorización de bugs críticos. |
 
 ---
 
 ## 4. Análisis Crítico
-- La **cobertura de pruebas** es adecuada, pero se recomienda implementar más pruebas unitarias en smart contracts y lógica financiera para reducir riesgos.
-- La **documentación** necesita ampliarse con guías de contribución y explicación de flujos de trabajo internos.
+- La **cobertura de pruebas** es adecuada, pero se recomienda implementar más pruebas unitarias en smart contracts y lógica financiera para reducir riesgos.  
+- La **documentación** necesita ampliarse con guías de contribución y explicación de flujos de trabajo internos.  
 - La **gestión de errores** es sólida, mostrando que el proyecto tiene un buen control de calidad operativo.
 
 ---
@@ -45,19 +38,19 @@ Durante la revisión del repositorio, se identificaron los siguientes elementos:
 ## 5. Conclusiones y Recomendaciones
 
 ### Conclusiones
-- El proyecto **Stellar MicroLoans dApp** cumple con estándares básicos de calidad y seguridad.
-- Existe un compromiso activo del equipo para resolver errores y mantener la aplicación estable.
-- Algunas áreas, como cobertura de pruebas y documentación detallada para desarrolladores, requieren mejoras.
+- El proyecto **Stellar MicroLoans dApp** cumple con estándares básicos de calidad y seguridad.  
+- Existe un compromiso activo del equipo para resolver errores y mantener la aplicación estable.  
+- Algunas áreas, como cobertura de pruebas y documentación para desarrolladores, requieren mejoras.
 
 ### Recomendaciones
-- **Aumentar cobertura de pruebas:** Implementar pruebas unitarias y de integración más completas para smart contracts y módulos críticos.
-- **Mejorar documentación:** Agregar guías para contribuyentes, diagramas de flujo y documentación de arquitectura interna.
-- **Monitoreo continuo:** Mantener seguimiento de bugs y métricas de rendimiento, utilizando reportes periódicos.
+- **Aumentar cobertura de pruebas:** Implementar pruebas unitarias y de integración más completas.  
+- **Mejorar documentación:** Agregar guías para contribuyentes, diagramas de flujo y documentación de arquitectura interna.  
+- **Monitoreo continuo:** Mantener seguimiento de bugs y métricas de rendimiento, con reportes periódicos.
 
 ---
 
 ## 6. Entregable
-Este informe será subido al repositorio de GitHub, como evidencia de la **aplicación práctica del Plan de Calidad**, incluyendo:
-- Análisis completo de métricas.
-- Evaluación crítica del proyecto.
+Este informe será subido al repositorio de GitHub como evidencia de la **aplicación práctica del Plan de Calidad**, incluyendo:  
+- Análisis completo de métricas.  
+- Evaluación crítica del proyecto.  
 - Conclusiones y recomendaciones de mejora.
