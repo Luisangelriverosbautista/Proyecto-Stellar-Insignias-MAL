@@ -33,6 +33,8 @@ La documentación necesita ampliarse con guías de contribución y explicación 
 La gestión de errores es sólida, mostrando que el proyecto tiene un buen control de calidad operativo.
 
 5. Conclusiones y Recomendaciones
+
+   
 5.1 Conclusiones
 
 El proyecto Stellar MicroLoans dApp cumple con estándares básicos de calidad y seguridad.
@@ -46,5 +48,6 @@ Algunas áreas, como cobertura de pruebas y documentación detallada para desarr
 Aumentar cobertura de pruebas: Implementar pruebas unitarias y de integración más completas para smart contracts y módulos críticos.
 
 Mejorar documentación: Agregar guías para contribuyentes, diagramas de flujo y documentación de arquitectura interna.
+
 
 Monitoreo continuo: Mantener seguimiento de bugs y métricas de rendimiento, utilizando reportes periódicos.
