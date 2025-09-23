@@ -31,14 +31,3 @@ Cada punto en esta lista debe ser revisado y marcado con **[x]** por un miembro 
 
 ---
 
-### **Notas de la Auditoría**
-
-*Fecha de Auditoría*: [DD/MM/AAAA]
-
-*Revisores*:
-- [Nombre del Revisor 1]
-- [Nombre del Revisor 2]
-
-*Observaciones Adicionales*:
-
-[Escribir aquí cualquier comentario, sugerencia o punto pendiente a resolver antes de la aprobación final.]
