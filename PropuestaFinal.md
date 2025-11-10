@@ -50,4 +50,5 @@ GitHub → control de versiones y entregables.
 
 
 🧾 Conclusión
+
 El proyecto GreenTech Hub busca consolidar una comunidad digital centrada en la educación ambiental y la tecnología sostenible. A través de una estructura organizada, roles definidos y políticas claras, el equipo se compromete a cumplir los objetivos planteados y entregar un producto digital que contribuya positivamente al conocimiento y acción ecológica.
