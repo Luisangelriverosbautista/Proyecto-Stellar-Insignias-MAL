@@ -7,7 +7,7 @@ El objetivo de este plan es definir los canales oficiales de comunicación y seg
 
 Este documento formaliza:
 
-Cómo nos comunicamos
+* Cómo nos comunicamos
 
 Cómo reportamos avances
 
