@@ -1,54 +1,148 @@
-GreenTech Hub: Comunidad Digital de Innovación Sostenible
+🌿 GreenTech Hub: Comunidad Digital de Innovación Sostenible
 
-Documento de Propuesta Final – Proyecto-Stellar-MAL
+* Autores: Luis Ángel Riveros Bautista, Alain Leonel, Marlen Osorio
+* Correo: contacto.greentechhub@gmail.com
+* Fecha: 18 de noviembre de 2025
+* Materia: Fundamentos de Software – Proyecto Stellar
 
-🧩 Fase 1: La “Piedra Angular” de la Justificación
-🗣️ Subactividad 1.1 – Pitch del Ascensor
+🧭 Resumen Ejecutivo
 
-“GreenTech Hub es una comunidad digital que impulsa la innovación sostenible a través de la educación, la colaboración y la tecnología. Nuestra plataforma promueve prácticas ecológicas mediante artículos, podcasts y recursos multimedia que conectan a ciudadanos, estudiantes y expertos comprometidos con el futuro verde. Al ofrecer insignias digitales, fomentamos el voluntariado y la acción ambiental responsable dentro de una red global impulsada por la tecnología Stellar.”
+GreenTech Hub es una plataforma digital diseñada para promover la sostenibilidad a través de contenido educativo, multimedia y recursos interactivos. El proyecto funciona como una comunidad en línea donde los usuarios pueden acceder a artículos, podcasts y materiales visuales relacionados con energía renovable, reciclaje, ecotecnología y prácticas verdes.
 
-Justificación del Proyecto:
-En un contexto donde el cambio climático y la falta de educación ambiental son desafíos urgentes, GreenTech Hub nace como un espacio digital para difundir conocimiento, inspirar acción y fortalecer la cultura de la sostenibilidad. El proyecto busca aprovechar herramientas digitales y colaborativas para crear contenido educativo accesible y motivar la participación ciudadana mediante sistemas de reconocimiento digital (insignias). Su implementación contribuirá a la construcción de comunidades más conscientes, informadas y comprometidas con el cuidado del medio ambiente.
+Mediante un sistema de insignias digitales, la plataforma motiva la participación activa, fomenta el voluntariado ambiental y reconoce el aprendizaje continuo. El objetivo es crear un espacio accesible, colaborativo y confiable para fortalecer la educación ambiental en línea mediante herramientas modernas de colaboración como GitHub, Notion y Trello.
 
-🛠️ Fase 2: La “Construcción” del Plan
+🎯 Objetivo SMART
 
-🧩 Subactividad 2.1 – Rompecabezas del Cronograma
+* S (Específico): Crear una plataforma digital que publique contenido educativo semanal sobre sostenibilidad e implemente un sistema de insignias digitales.
+* M (Medible): Generar mínimo 4 artículos, 1 podcast editado y un set inicial de 3 insignias en el primer mes.
+* A (Alcanzable): Utilizar herramientas gratuitas como Canva, Trello, Notion, OBS y GitHub para desarrollar y organizar todo el contenido.
+* R (Relevante): La educación ambiental es crítica para enfrentar retos actuales; este proyecto amplifica el acceso a información confiable.
+* T (Limitado en tiempo): Completar la primera versión funcional en 4 semanas.
 
-| Semana | Actividad Principal                                         | Responsable(s)       | Dependencias             | Entregable                        |
-| :----: | :---------------------------------------------------------- | :------------------  | :----------------------- | :-------------------------------- |
-|    1   | Lluvia de ideas y definición del Acta de Constitución       | Todo el equipo       | Ninguna                  | Documento de Acta en GitHub       |
-|    2   | Publicación del primer artículo sobre reciclaje electrónico | Alain                | Acta aprobada            | Artículo en plataforma            |
-|    3   | Grabación y edición del primer podcast con invitado         | Marlene              | Artículo publicado       | Podcast editado y publicado       |
-|    4   | Lanzamiento del sistema de insignias inicial                | Marlene / Luis Ángel | Podcast publicado        | Diseño y publicación de insignias |
-|    5   | Revisión general del contenido y retroalimentación          | Todo el equipo       | Todas las tareas previas | Informe final y ajustes           |
+💡 Justificación del Proyecto
+
+La falta de educación ambiental accesible es un problema global. Muchas personas desconocen prácticas sostenibles básicas o avances tecnológicos ecológicos. GreenTech Hub busca cubrir esta necesidad creando un espacio digital confiable, con información clara, actualizada y diseñada para diferentes tipos de usuarios.
+
+Propuesta de valor:
+
+* Difundir contenido digital accesible sobre sostenibilidad.
+* Promover hábitos ecológicos mediante insignias y logros.
+* Crear una comunidad colaborativa enfocada en la innovación verde.
+* Ofrecer recursos multimedia que faciliten el aprendizaje autónomo.
+
+🧠 Funcionalidad del Proyecto
+
+* Artículos temáticos: Energías renovables, reciclaje, ecotips, innovación tecnológica.
+* Podcasts ambientales: Grabación, edición y publicación mensual con expertos invitados.
+* Insignias digitales: Reconocimientos por participación y contribución.
+* Repositorio de proyectos ecológicos: Documentación de iniciativas colaborativas.
+* Panel de contenido: Organización interna mediante Notion y GitHub.
+
+💰 Beneficio Social y Educativo
+
+* Usuarios: Acceso libre a contenido educativo de calidad.
+* Estudiantes: Plataforma para aprender y compartir iniciativas verdes.
+* Comunidad: Fomento de prácticas sostenibles basadas en evidencia.
+* Instituciones: Fuente confiable para promover actividades ambientales.
+
+📅 Cronograma General (4 Semanas)
+
+| **Fase / Semana**       | **Actividad Principal**                                     | **Duración** |
+| ----------------------- | ----------------------------------------------------------- | ------------ |
+| **Semana 1**            | Lluvia de ideas y creación del Acta de Constitución         | 1 semana     |
+| **Semana 2**            | Publicación del primer artículo sobre reciclaje electrónico | 1 semana     |
+| **Semana 3**            | Grabación y edición del primer podcast                      | 1 semana     |
+| **Semana 4**            | Lanzamiento del sistema inicial de insignias                | 1 semana     |
+| **Semana 5 (opcional)** | Revisión final y ajustes generales                          | 2–3 días     |
 
 
-🎭 Subactividad 2.2 – Asamblea de Roles
+👥 Roles del Equipo
 
-|   Integrante   | Rol Principal                      | Descripción de Responsabilidades                                                                           |
-| :------------: | :---------------------------------  | :---------------------------------------------------------------------------------------------------------|
-| **Luis Ángel** | 🧭 Coordinador de Comunidad        | Organiza la comunicación interna, planifica tareas semanales, supervisa el cumplimiento del cronograma y   |
-|                |                                     |   apoya la gestión de contenido.                                                                          |
-|    **Alain**   | ✍️ Redactor y Curador de Contenido  | Elabora artículos, guías y publicaciones; selecciona fuentes externas confiables y verifica la calidad del |                |                                     | material educativo.                                                                                       |
-|   **Marlene**  | 🎨 Diseñadora Multimedia            | Crea materiales gráficos, diseña insignias digitales, y realiza la edición de videos y podcasts del       |
-|                |                                      | proyecto.                                                                                                |
+| **Rol**                             | **Descripción**                                           | **Responsable** |
+| ----------------------------------- | --------------------------------------------------------- | --------------- |
+| **Coordinador de Comunidad**        | Organiza comunicación, reuniones y supervisa entregables. | Luis Ángel      |
+| **Redactor y Curador de Contenido** | Crea artículos, guías y selecciona fuentes verificadas.   | Alain           |
+| **Diseñadora Multimedia**           | Diseña gráficos, edita videos/podcasts y crea insignias.  | Marlen          |
 
 
-🤝 Fase 3: El “Código de Conducta del Equipo”.
+📢 Manifiesto de Comunicación (Código de Conducta del Equipo)
+Tiempo de respuesta
 
-📜 Subactividad 3.1 – Manifiesto de Comunicación
+Todos los issues y mensajes deberán responderse en un máximo de 24 horas hábiles.
 
-Políticas de Comunicación del Equipo GreenTech Hub:
-💬 Transparencia y respuesta rápida: Todos los issues o comentarios en GitHub deberán ser respondidos en un máximo de 24 horas hábiles.
-📅 Reuniones de seguimiento: Se realizará una reunión virtual breve cada semana para revisar avances y ajustar el cronograma si es necesario.
-🛠️ Uso de herramientas compartidas:
-Trello → gestión de tareas.
-Notion → documentación y notas del proyecto.
-GitHub → control de versiones y entregables.
-🤝 Respeto y colaboración: Toda comunicación debe ser constructiva, profesional y enfocada en la resolución de problemas.
-🚀 Retroalimentación abierta: Se fomenta el intercambio de ideas con críticas constructivas, buscando siempre mejorar el producto final.
+Canales oficiales
+
+* Comunicación rápida: WhatsApp
+* Seguimiento técnico: GitHub Issues & Projects
+* Documentación: Notion + Repositorio principal
+
+Reuniones
+
+* Stand-up semanal: 10–15 minutos cada lunes.
+* Revisión semanal: Viernes por la tarde.
+* Ausencias: Si un miembro no responde en 48 horas, deberá notificar al coordinador.
+
+Pull Requests
+
+Todos los cambios pasan por revisión entre pares antes de ser aprobados.
+
+Resolución de conflictos
+
+Se realizará una reunión formal para aclarar diferencias y priorizar soluciones objetivas.
+
+📦 Entregables del Proyecto
+
+* Artículo semanal publicado en repositorio.
+* Podcast mensual editado y publicado.
+* Diseño de insignias digitales (mínimo 3).
+* Documento de Acta de Constitución.
+* Documento de Propuesta Final (este archivo).
+* Carpeta multimedia con gráficos y plantillas.
+* Registro de tareas en GitHub Projects.
+
+📊 Indicadores de Éxito (KPIs)
+
+* 4 artículos completos en el primer mes.
+* 1 podcast grabado y editado correctamente.
+* 3 insignias funcionales diseñadas y subidas al repositorio.
+* Cumplimiento del 85% del cronograma.
+* Respuesta a issues ≤ 24 horas hábiles.
+* Reuniones semanales cumplidas ≥ 90%.
+
+⚠️ Riesgos y Mitigación
+
+| **Riesgo**                                   | **Impacto** | **Mitigación**                                                   |
+| -------------------------------------------- | ----------- | ---------------------------------------------------------------- |
+| Falta de tiempo para producción de contenido | Medio       | Uso de un calendario editorial y plantillas predefinidas.        |
+| Problemas de comunicación                    | Medio       | Aplicación estricta del horario de revisión y respuesta 24h.     |
+| Dificultad para edición de audio/video       | Bajo        | Uso de software accesible como Audacity y OBS.                   |
+| Baja participación del equipo                | Bajo        | Reuniones semanales obligatorias y distribución clara de tareas. |
 
 
-🧾 Conclusión
+⏳ Estimaciones Generales
 
-El proyecto GreenTech Hub busca consolidar una comunidad digital centrada en la educación ambiental y la tecnología sostenible. A través de una estructura organizada, roles definidos y políticas claras, el equipo se compromete a cumplir los objetivos planteados y entregar un producto digital que contribuya positivamente al conocimiento y acción ecológica.
+* Duración del proyecto: 4 semanas (versión inicial).
+* Esfuerzo estimado: 60–80 horas totales.
+* Herramientas: Trello, Notion, GitHub, Canva, Audacity, OBS Studio.
+
+🚀 Próximos Pasos
+
+* Crear el repositorio del proyecto en GitHub.
+* Subir la Acta de Constitución y estructura inicial.
+* Crear plantillas para artículos y podcasts.
+* Diseñar las primeras insignias.
+* Iniciar grabación del contenido.
+
+📎 Recursos y Enlaces
+
+* Herramientas: Trello, Notion, Canva, Audacity, OBS Studio
+* Repositorio GitHub del proyecto (a subir por el equipo)
+* Carpeta de assets gráficos
+
+✒️ Firma del Equipo
+
+Luis Ángel Riveros Bautista
+Alain Leonel
+Marlen Osorio
+Tecnológico Nacional de México – Campus Tlaxiaco
+Propuesta Final – Proyecto Stellar MAL
