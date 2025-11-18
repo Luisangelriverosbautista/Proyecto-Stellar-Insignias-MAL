@@ -31,16 +31,20 @@ Hito correspondiente:
 🔴 En rojo: problemas críticos que requieren acción inmediata
 
 3. Actividades Realizadas (Semana Actual)
+   
 | Actividad                    | Responsable | Estado | Evidencia                |
 | ---------------------------- | ----------- | ------ | ------------------------ |
 | Ejemplo: Diseño de insignias | Marlen      | 🟢     | Capturas, enlace a Canva |
 
 4. Actividades Pendientes (Semana Próxima)
 
+
 | Actividad | Responsable | Fecha Compromiso | Estado (Semáforo) |
 | --------- | ----------- | ---------------- | ----------------- |
 
 5. Obstáculos / Riesgos Identificados
+
+   
 | Riesgo u obstáculo | Responsable | Semáforo | Acción correctiva |
 | ------------------ | ----------- | -------- | ----------------- |
 
@@ -65,6 +69,8 @@ Fase 2: Selección de la Tripulación y sus Herramientas
 🛠️ Subactividad 2.1 – Subasta de Herramientas
 
 Después de una lluvia de ideas, el equipo seleccionó:
+
+
 | Herramienta         | Función                                     | Razones                                                    |
 | ------------------- | ------------------------------------------- | ---------------------------------------------------------- |
 | **Trello**          | Gestión del trabajo por tarjetas y tableros | Flujo Kanban claro, seguimiento visual de cada semana      |
