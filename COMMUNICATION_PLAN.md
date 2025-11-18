@@ -94,7 +94,7 @@ El estado de cada actividad utilizará los siguientes indicadores:
 Declaración Oficial de Herramientas del Proyecto
 
 1. Slack/Discord – Comunicación interna
-Se utilizará para coordinar tareas, enviar avisos y mantener comunicación diaria organizada por canales (#artículos, #podcast, #multimedia, #avisos).
+* Se utilizará para coordinar tareas, enviar avisos y mantener comunicación diaria organizada por canales (#artículos, #podcast, #multimedia, #avisos).
 2. Trello – Seguimiento del proyecto
 El tablero contiene las columnas:
 
@@ -110,25 +110,25 @@ Cada tarjeta incluye responsable, fecha límite, semáforo y evidencia.
 * Almacena informes, avances, actas, capturas y multimedia.
 
 4. Canva – Plataforma de diseño
-Para insignias digitales, miniaturas, portadas e imágenes informativas.
+* Para insignias digitales, miniaturas, portadas e imágenes informativas.
 
 5. Audacity / OBS – Producción multimedia
-Herramientas esenciales para grabar, editar y publicar podcasts y videos.
+* Herramientas esenciales para grabar, editar y publicar podcasts y videos.
 
 🛠️ 4. Fase 3: Reglas Oficiales de Comunicación
 📢 4.1 Slack / Discord
 
-Responder en un máximo de 24 horas
-Mantener respeto y claridad
-Usar canales correctos
-Adjuntar evidencia cuando sea necesario
+* Responder en un máximo de 24 horas
+* Mantener respeto y claridad
+* Usar canales correctos
+* Adjuntar evidencia cuando sea necesario
 
 📌 4.2 Trello
 
-Actualizar tarjetas diariamente
-Mover tareas solo cuando corresponda
-Mantener semáforos al día
-Adjuntar evidencias de avance
+* Actualizar tarjetas diariamente
+* Mover tareas solo cuando corresponda
+* Mantener semáforos al día
+* Adjuntar evidencias de avance
 
 📁 4.3 Google Drive
 
@@ -145,21 +145,21 @@ Estructura:
 
 Reglas:
 
-No borrar archivos sin aviso
-Subir reportes en PDF
-Mantener nombres estandarizados
+* No borrar archivos sin aviso
+* Subir reportes en PDF
+* Mantener nombres estandarizados
 
 🎨 4.4 Canva
 
-Guardar diseños en carpetas por tipo
-Respetar la paleta verde/eco del proyecto
-Compartir enlaces editables al equipo
+* Guardar diseños en carpetas por tipo
+* Respetar la paleta verde/eco del proyecto
+* Compartir enlaces editables al equipo
 
 🎙️ 4.5 Audacity / OBS
 
-Guardar pistas originales antes de editar
-Subir versiones finales a Drive
-Mantener copia de seguridad de audios
+* Guardar pistas originales antes de editar
+* Subir versiones finales a Drive
+* Mantener copia de seguridad de audios
 
 👥 5. Roles y Responsabilidades
 
