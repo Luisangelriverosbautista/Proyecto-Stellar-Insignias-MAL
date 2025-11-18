@@ -8,16 +8,13 @@ El objetivo de este plan es definir los canales oficiales de comunicación y seg
 Este documento formaliza:
 
 * Cómo nos comunicamos
-
-Cómo reportamos avances
-
-Cómo gestionamos tareas y riesgos
-
-Qué herramientas usamos y por qué
-
-Qué responsabilidades tiene cada integrante
+* Cómo reportamos avances
+* Cómo gestionamos tareas y riesgos
+* Qué herramientas usamos y por qué
+* Qué responsabilidades tiene cada integrante
 
 🚀 2. Fase 1: Diseño de la Señal de Progreso
+ 
 🛰️ 2.1 Tablero de Control del Progreso
 
 A continuación se presenta el formato oficial del Informe Semanal, que será utilizado durante todo el proyecto.
@@ -25,28 +22,21 @@ A continuación se presenta el formato oficial del Informe Semanal, que será ut
 📅 FORMATO DE INFORME SEMANAL – GREEN TECH HUB
 1. Datos Generales
 
-Semana:
-
-Fecha:
-
-Integrantes presentes: Luis Ángel, Alain, Marlen
+* Semana:
+* Fecha:
+* Integrantes presentes: Luis Ángel, Alain, Marlen
 
 Hito correspondiente:
 
-Semana 1: Acta de constitución del proyecto
-
-Semana 2: Publicación del primer artículo
-
-Semana 3: Grabación del primer podcast
-
-Semana 4: Lanzamiento de insignias digitales
+* Semana 1: Acta de constitución del proyecto
+* Semana 2: Publicación del primer artículo
+* Semana 3: Grabación del primer podcast
+* Semana 4: Lanzamiento de insignias digitales
 
 2. Estado Global del Proyecto (Semáforo General)
 
 🟢 Verde – Avance normal, sin retrasos
-
 🟡 Amarillo – Riesgo leve o ajustes necesarios
-
 🔴 Rojo – Problemas críticos
 
 3. Actividades Realizadas en la Semana
@@ -75,20 +65,17 @@ Semana 4: Lanzamiento de insignias digitales
 | Retrasos en edición de audio | Luis Ángel  | 🟡       | Apoyo adicional      |
 
 6. Notas para el Profesor
-Se solicita retroalimentación sobre el diseño preliminar de insignias.
 
-El equipo reporta avance estable conforme al cronograma.
-
-No se han presentado conflictos internos de comunicación.
+* Se solicita retroalimentación sobre el diseño preliminar de insignias.
+* El equipo reporta avance estable conforme al cronograma.
+* No se han presentado conflictos internos de comunicación.
 
 🚦 2.2 Código de Semáforos
 
 El estado de cada actividad utilizará los siguientes indicadores:
 
 🟢 Verde: Completado o sin riesgos
-
 🟡 Amarillo: Riesgos leves o retrasos menores
-
 🔴 Rojo: Actividad detenida o con riesgo crítico
 
 🌌 3. Fase 2: Selección de Herramientas
@@ -108,23 +95,19 @@ Declaración Oficial de Herramientas del Proyecto
 
 1. Slack/Discord – Comunicación interna
 Se utilizará para coordinar tareas, enviar avisos y mantener comunicación diaria organizada por canales (#artículos, #podcast, #multimedia, #avisos).
-
 2. Trello – Seguimiento del proyecto
 El tablero contiene las columnas:
 
-Pendiente
-
-En proceso
-
-En revisión
-
-Completado
+* Pendiente
+* En proceso
+* En revisión
+* Completado
 
 Cada tarjeta incluye responsable, fecha límite, semáforo y evidencia.
 
 3. Google Drive – Central de documentación
-Carpetas por semanas.
-Almacena informes, avances, actas, capturas y multimedia.
+* Carpetas por semanas.
+* Almacena informes, avances, actas, capturas y multimedia.
 
 4. Canva – Plataforma de diseño
 Para insignias digitales, miniaturas, portadas e imágenes informativas.
@@ -136,21 +119,15 @@ Herramientas esenciales para grabar, editar y publicar podcasts y videos.
 📢 4.1 Slack / Discord
 
 Responder en un máximo de 24 horas
-
 Mantener respeto y claridad
-
 Usar canales correctos
-
 Adjuntar evidencia cuando sea necesario
 
 📌 4.2 Trello
 
 Actualizar tarjetas diariamente
-
 Mover tareas solo cuando corresponda
-
 Mantener semáforos al día
-
 Adjuntar evidencias de avance
 
 📁 4.3 Google Drive
@@ -169,25 +146,19 @@ Estructura:
 Reglas:
 
 No borrar archivos sin aviso
-
 Subir reportes en PDF
-
 Mantener nombres estandarizados
 
 🎨 4.4 Canva
 
 Guardar diseños en carpetas por tipo
-
 Respetar la paleta verde/eco del proyecto
-
 Compartir enlaces editables al equipo
 
 🎙️ 4.5 Audacity / OBS
 
 Guardar pistas originales antes de editar
-
 Subir versiones finales a Drive
-
 Mantener copia de seguridad de audios
 
 👥 5. Roles y Responsabilidades
