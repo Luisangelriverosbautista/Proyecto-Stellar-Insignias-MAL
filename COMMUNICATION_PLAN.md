@@ -50,6 +50,7 @@ Semana 4: Lanzamiento de insignias digitales
 🔴 Rojo – Problemas críticos
 
 3. Actividades Realizadas en la Semana
+   
 | Actividad                       | Responsable | Estado | Evidencia         |
 | ------------------------------- | ----------- | ------ | ----------------- |
 | Lluvia de ideas del proyecto    | Equipo      | 🟢     | Acta en Drive     |
@@ -58,6 +59,7 @@ Semana 4: Lanzamiento de insignias digitales
 | Organización del tablero Trello | Luis Ángel  | 🟢     | Captura o enlace  |
 
 4. Actividades Pendientes (Próxima Semana)
+   
 | Actividad                 | Responsable         | Fecha Compromiso | Estado |
 | ------------------------- | ------------------- | ---------------- | ------ |
 | Finalizar artículo        | Alain               | Viernes          | 🟡     |
@@ -65,6 +67,7 @@ Semana 4: Lanzamiento de insignias digitales
 | Definir insignias finales | Marlen              | Lunes            | 🟢     |
 
 5. Obstáculos o Riesgos
+   
 | Riesgo                       | Responsable | Semáforo | Acción Correctiva    |
 | ---------------------------- | ----------- | -------- | -------------------- |
 | Problemas de horarios        | Equipo      | 🟡       | Ajuste de reuniones  |
@@ -90,6 +93,7 @@ El estado de cada actividad utilizará los siguientes indicadores:
 
 🌌 3. Fase 2: Selección de Herramientas
 🧩 3.1 Subasta de Herramientas
+
 | Herramienta               | Función                     | Razón de Selección                                                   |
 | ------------------------- | --------------------------- | -------------------------------------------------------------------- |
 | **Slack / Discord**       | Comunicación diaria         | Permite canales temáticos, mensajes rápidos e integración con GitHub |
@@ -187,6 +191,8 @@ Subir versiones finales a Drive
 Mantener copia de seguridad de audios
 
 👥 5. Roles y Responsabilidades
+
+
 | Integrante     | Rol                      | Responsabilidades en Comunicación                              |
 | -------------- | ------------------------ | -------------------------------------------------------------- |
 | **Luis Ángel** | Coordinador de Comunidad | Supervisar comunicación, gestionar Trello, organizar reuniones |
