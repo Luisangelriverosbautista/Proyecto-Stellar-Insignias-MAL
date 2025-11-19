@@ -1,4 +1,4 @@
-# 📝 CONTRACT.md  
+# 📝 CONTRATO
 ## Contrato de Compromiso del Equipo  
 ### Proyecto: GreenTech Hub – Comunidad Digital de Innovación Sostenible  
 ### Equipo: Stellar-MAL
