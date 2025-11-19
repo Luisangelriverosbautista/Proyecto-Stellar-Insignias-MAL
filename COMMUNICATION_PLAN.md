@@ -1,10 +1,10 @@
-Plan de comunicacion
+# Plan de comunicacion
 * Proyecto Stellar-MAL – GreenTech Hub
 * Actividad 2: Los Canales de la Constelación
 
 El objetivo de este plan es definir los canales oficiales de comunicación y seguimiento del proyecto GreenTech Hub: Comunidad Digital de Innovación Sostenible, garantizando una colaboración profesional entre el equipo, el profesor (cliente) y otros equipos.
 
-Este documento formaliza:
+### Este documento formaliza:
 
 * Cómo nos comunicamos
 * Cómo reportamos avances
