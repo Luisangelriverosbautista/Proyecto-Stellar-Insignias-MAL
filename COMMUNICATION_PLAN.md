@@ -1,4 +1,4 @@
-📡 Plan de comunicacion
+Plan de comunicacion
 * Proyecto Stellar-MAL – GreenTech Hub
 * Actividad 2: Los Canales de la Constelación
 
@@ -12,13 +12,13 @@ Este documento formaliza:
 * Qué herramientas usamos y por qué
 * Qué responsabilidades tiene cada integrante
 
-🚀 2. Fase 1: Diseño de la Señal de Progreso
+2. Fase 1: Diseño de la Señal de Progreso
  
-🛰️ 2.1 Tablero de Control del Progreso
+2.1 Tablero de Control del Progreso
 
 A continuación se presenta el formato oficial del Informe Semanal, que será utilizado durante todo el proyecto.
 
-📅 FORMATO DE INFORME SEMANAL – GREEN TECH HUB
+FORMATO DE INFORME SEMANAL – GREEN TECH HUB
 1. Datos Generales
 
 * Semana:
@@ -69,7 +69,7 @@ Hito correspondiente:
 * El equipo reporta avance estable conforme al cronograma.
 * No se han presentado conflictos internos de comunicación.
 
-🚦 2.2 Código de Semáforos
+2.2 Código de Semáforos
 
 El estado de cada actividad utilizará los siguientes indicadores:
 
@@ -77,8 +77,8 @@ El estado de cada actividad utilizará los siguientes indicadores:
 🟡 Amarillo: Riesgos leves o retrasos menores
 🔴 Rojo: Actividad detenida o con riesgo crítico
 
-🌌 3. Fase 2: Selección de Herramientas
-🧩 3.1 Subasta de Herramientas
+3. Fase 2: Selección de Herramientas
+3.1 Subasta de Herramientas
 
 | Herramienta               | Función                     | Razón de Selección                                                   |
 | ------------------------- | --------------------------- | -------------------------------------------------------------------- |
@@ -88,7 +88,7 @@ El estado de cada actividad utilizará los siguientes indicadores:
 | **Canva**                 | Diseño gráfico              | Necesario para insignias y contenido visual                          |
 | **Audacity / OBS Studio** | Audio y video               | Indispensables para podcasts y material educativo                    |
 
-🌟 3.2 Manifiesto de la Constelación
+3.2 Manifiesto de la Constelación
 
 Declaración Oficial de Herramientas del Proyecto
 
@@ -114,22 +114,22 @@ Cada tarjeta incluye responsable, fecha límite, semáforo y evidencia.
 5. Audacity / OBS – Producción multimedia
 * Herramientas esenciales para grabar, editar y publicar podcasts y videos.
 
-🛠️ 4. Fase 3: Reglas Oficiales de Comunicación
-📢 4.1 Slack / Discord
+4. Fase 3: Reglas Oficiales de Comunicación
+4.1 Slack / Discord
 
 * Responder en un máximo de 24 horas
 * Mantener respeto y claridad
 * Usar canales correctos
 * Adjuntar evidencia cuando sea necesario
 
-📌 4.2 Trello
+4.2 Trello
 
 * Actualizar tarjetas diariamente
 * Mover tareas solo cuando corresponda
 * Mantener semáforos al día
 * Adjuntar evidencias de avance
 
-📁 4.3 Google Drive
+4.3 Google Drive
 
 Estructura:
 
@@ -148,19 +148,19 @@ Reglas:
 * Subir reportes en PDF
 * Mantener nombres estandarizados
 
-🎨 4.4 Canva
+4.4 Canva
 
 * Guardar diseños en carpetas por tipo
 * Respetar la paleta verde/eco del proyecto
 * Compartir enlaces editables al equipo
 
-🎙️ 4.5 Audacity / OBS
+ 4.5 Audacity / OBS
 
 * Guardar pistas originales antes de editar
 * Subir versiones finales a Drive
 * Mantener copia de seguridad de audios
 
-👥 5. Roles y Responsabilidades
+5. Roles y Responsabilidades
 
 
 | Integrante     | Rol                      | Responsabilidades en Comunicación                              |
@@ -169,7 +169,7 @@ Reglas:
 | **Alain**      | Redactor y Curador       | Redactar artículos, informes, guiones y documentación          |
 | **Marlen**     | Diseñadora Multimedia    | Crear insignias, editar podcast, producir contenido visual     |
 
-🧭 6. Conclusión del Plan de Comunicación
+6. Conclusión del Plan de Comunicación
 
 Este plan garantiza una comunicación clara, organizada y profesional durante el desarrollo del proyecto GreenTech Hub, asegurando que cada integrante conozca sus responsabilidades, las herramientas a utilizar y el método para reportar avances semanalmente.
 
